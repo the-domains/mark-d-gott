@@ -1,0 +1,28 @@
+name: Mark D. Gott
+favicon: null
+layout_spectrum: 0.44182716542854905
+typography_spectrum: 0.14219998312182724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9272467410191894
+  lightness: 0.2861835795920342
+  saturation: 0.05506216431967914
+  rhythmicContrast: 0.6971441968344152
+purpose: []
